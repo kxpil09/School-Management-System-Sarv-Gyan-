@@ -1,1 +1,1 @@
-# School-Management-System-Sarv-Gyan-
+# Checkout Master Branch for entire project
